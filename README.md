@@ -14,7 +14,7 @@ To run gem5 and replicate our experiments and results:
 NOTES
 The branch predictors are located at src/cpu/pred
 Our additions are:
-perceptron.hh
-perceptron.cc
-pathperceptron.hh
-pathperceptron.hh
+1. perceptron.hh
+2. perceptron.cc
+3. pathperceptron.hh
+4. pathperceptron.cc
