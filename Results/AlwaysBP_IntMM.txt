@@ -1,0 +1,11 @@
+indirect misses : 2792
+number of instructions : 5318225
+sim seconds : 0.004593
+conditional misses : 12607
+latency : 29.65
+number of indirect lookups : 250790
+number of lookups : 262362
+number of mispredictions : 15064
+number of conditionals : 262362
+MPKI: 2.8325
+Accuracy: 0.9426
